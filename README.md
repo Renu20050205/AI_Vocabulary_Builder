@@ -74,6 +74,7 @@ JavaScript (Vanilla JS) – Logic, dynamic content rendering, quiz generation, s
 
 LocalStorage – Storing saved words permanently on the browser
 
+
 📁 WordWise-AI
 │
 ├── index.html         → Main UI
@@ -81,6 +82,7 @@ LocalStorage – Storing saved words permanently on the browser
 ├── script.js          → JavaScript logic
 ├── README.md          → Documentation
 ├── images             → project image
+
 
 🔧 How It Works (Detailed)
 1️⃣ User Enters a Word
@@ -118,3 +120,10 @@ Add multiple-choice quizzes
 Add export/download saved words as PDF
 
 Add login system to sync saved words across devices
+
+3️⃣ ✨ App Interface
+
+![Screenshot](Images/image1.png)
+![Screenshot](Images/image2.png)
+![Screenshot](Images/image3.png)
+
